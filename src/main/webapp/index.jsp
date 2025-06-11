@@ -10,7 +10,7 @@
 <body>
     <header>
         <div class="logo">
-            <h1>welcome to Ramakrishna sares holesale rate only</h1>
+            <h1>welcome to mobileshop</h1>
         </div>
         <nav>
             <ul>
